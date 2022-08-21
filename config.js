@@ -4,9 +4,9 @@
  */
 module.exports = {
 	// redis服务器配置
-	redis_host: '127.0.0.1',
-	redis_port: '6379',
-	redis_pwd: null, // 没有redis密码则写 null
+	redis_host: 'redis-10769.c1.ap-southeast-1-1.ec2.cloud.redislabs.com',
+	redis_port: '10769',
+	redis_pwd: 'PbNXaCPy3ovnvGkXkAMg9ggNcxI4Ybld', // 没有redis密码则写 null
 	// redis Hash列表名
 	field_lists: 'naives',
 	// 1小时内单个IP可获取最多临时链接数
