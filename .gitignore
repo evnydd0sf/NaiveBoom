@@ -60,3 +60,4 @@ typings/
 yarn.lock
 *.rdb
 dump.rdb
+dump.rdb

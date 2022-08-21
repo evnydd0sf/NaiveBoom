@@ -1,0 +1,7 @@
+{
+    "env": {
+        "process.env.redis_host": "this is the value",
+        "process.env.redis_port": "@my-secret-name",
+        "process.env.redis_pwd": "@my-secret-name"
+    }
+}
