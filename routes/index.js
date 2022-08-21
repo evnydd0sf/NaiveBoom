@@ -5,7 +5,7 @@ var mtool = new (require('../lib/tools.js'))(conf);// 消息操作工具
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Naiveboom - 比较安全', isZhao: conf.isZhao});
+  res.render('index', { title: 'evnydd0sf - 比较安全', isZhao: conf.isZhao});
 });
 
 /**
